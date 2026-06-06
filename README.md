@@ -6,7 +6,7 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
-- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - Solana-native trust scoring and x402 receipt layer for AI agents. Free preflight + paid signed V5 trust receipts. MCP endpoint: https://intel.twzrd.xyz/mcp (Streamable-HTTP)
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust infrastructure MCP server for AI agents on Solana. On-chain agent identity, trust scoring, pre-dispatch gating, and signed V5 receipts. 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Paid `get_trust_receipt` via x402 (<$0.01 USDC). Zero-install: `https://intel.twzrd.xyz/mcp`.
 
 ## Quick Start
 
